@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Sayonara Elegy",
+  "base_artist": "Masaki Suda",
+  "createdAt": "2026-02-20T00:56:41.706481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sayonara Elegy",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/01_Sayonara_Elegy_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sayonara Elegy",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/02_Sayonara_Elegy_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよならエレジー - Sayonara Elegy",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/03_さよならエレジー_-_Sayonara_Elegy_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sayonara Elegy (Acoustic Version)",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/04_Sayonara_Elegy_(Acoustic_Version)_Masaki_Suda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならエレジー",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_01_さよならエレジー_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sayonara Elegy",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_02_Sayonara_Elegy_菅田将暉.txt"
+    }
+  ]
+}
